@@ -1,0 +1,4 @@
+protobuf
+sentencepiece
+torchaudio
+transformers
